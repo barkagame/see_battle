@@ -1,0 +1,11 @@
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\obj\Debug\SeaBattle_game.csproj.AssemblyReference.cache
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\obj\Debug\SeaBattle_game.Form1.resources
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\obj\Debug\SeaBattle_game.GameForm.resources
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\obj\Debug\SeaBattle_game.Properties.Resources.resources
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\obj\Debug\SeaBattle_game.csproj.GenerateResource.cache
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\obj\Debug\SeaBattle_game.csproj.CoreCompileInputs.cache
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\bin\Debug\SeaBattle_game.exe.config
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\bin\Debug\SeaBattle_game.exe
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\bin\Debug\SeaBattle_game.pdb
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\obj\Debug\SeaBattle_game.exe
+E:\Document Rodion\project C#\SeaBattle_game\SeaBattle_game\obj\Debug\SeaBattle_game.pdb
